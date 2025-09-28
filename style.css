@@ -1,12 +1,12 @@
 /* Investera Custom Styles - Navy & Gold Branding */
 
 :root {
-  --navy-primary: #1a237e;
-  --navy-dark: #0d1421;
-  --navy-light: #283593;
-  --gold-primary: #ffd700;
-  --gold-dark: #b8860b;
-  --gold-light: #ffed4e;
+  --navy-primary: #010002;
+  --navy-dark: #20104e;
+  --navy-light: #825bc2;
+  --gold-primary: #9570da;
+  --gold-dark: #af87dd;
+  --gold-light: #a186e9;
   --text-light: #f8f9fa;
   --text-dark: #212529;
   --shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -387,3 +387,4 @@ body {
 .shadow-custom {
   box-shadow: var(--shadow);
 }
+
